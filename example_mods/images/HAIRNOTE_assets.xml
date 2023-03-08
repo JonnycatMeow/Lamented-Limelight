@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HAIRNOTE_assets.png">
+<SubTexture name="purple0000" x="354" y="0" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="green0000" x="1416" y="354" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="blue0000" x="354" y="1062" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="red0000" x="1416" y="1416" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+</TextureAtlas>

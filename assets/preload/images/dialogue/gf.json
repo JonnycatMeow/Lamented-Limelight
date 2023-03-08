@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		-50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "GF DIALOGUE",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "GF DIALOGUE GF DIALOGUE NORMAL",
+			"idle_name": "GF DIALOGUE GF DIALOGUE NORMAL"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "curious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "GF DIALOGUE GF DIALOGUE CURIOUS",
+			"idle_name": "GF DIALOGUE GF DIALOGUE CURIOUS"
+		},
+		{
+			"loop_name": "GF DIALOGUE GF DIALOGUE EMBARRASSED",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF DIALOGUE GF DIALOGUE EMBARRASSED",
+			"anim": "embarrassed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF DIALOGUE GF DIALOGUE SMILING",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF DIALOGUE GF DIALOGUE SMILING",
+			"anim": "smiling",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

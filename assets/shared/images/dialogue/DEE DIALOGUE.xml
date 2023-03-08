@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DEE DIALOGUE.png"><SubTexture name="DEE DIALOGUE HAPPY0000" x="0" y="0" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="DEE DIALOGUE SAD0000" x="424" y="0" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="DEE DIALOGUE AVERTING EYES0000" x="0" y="484" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="DEE DIALOGUE TEARING UP0000" x="424" y="484" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="DEE DIALOGUE NERVOUS0000" x="0" y="968" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+</TextureAtlas>

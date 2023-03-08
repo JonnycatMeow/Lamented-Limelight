@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		-50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "BF DIALOGUE BF NORMAL",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF DIALOGUE BF NORMAL",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF DIALOGUE ENTHU BF",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF DIALOGUE ENTHU BF",
+			"anim": "enthu",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF DIALOGUE CUROUS BF",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF DIALOGUE CUROUS BF",
+			"anim": "curious",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF DIALOGUE HUH BF",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF DIALOGUE HUH BF",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF DIALOGUE HEY UH BF",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF DIALOGUE HEY UH BF",
+			"anim": "hey uh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BF DIALOGUE"
+}

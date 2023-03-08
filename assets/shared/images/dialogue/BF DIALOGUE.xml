@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF DIALOGUE.png"><SubTexture name="BF DIALOGUE BF NORMAL0000" x="0" y="0" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="BF DIALOGUE ENTHU BF0000" x="424" y="0" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="BF DIALOGUE CUROUS BF0000" x="0" y="484" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="BF DIALOGUE HUH BF0000" x="424" y="484" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+<SubTexture name="BF DIALOGUE HEY UH BF0000" x="0" y="968" width="424" height="484" frameX="0" frameY="0" frameWidth="424" frameHeight="484" />
+</TextureAtlas>

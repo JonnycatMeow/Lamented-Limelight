@@ -1,0 +1,49 @@
+{
+	"storyName": "The Hair-Raising Idol APproaches",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage_week_1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Floored",
+			"dee",
+			[
+				60,
+				120,
+				255
+			]
+		],
+		[
+			"Upstaged",
+			"dee",
+			[
+				60,
+				120,
+				255
+			]
+		],
+		[
+			"Crushed",
+			"dee",
+			[
+				60,
+				120,
+				255
+			]
+		]
+	],
+	"weekName": "Dee week"
+}

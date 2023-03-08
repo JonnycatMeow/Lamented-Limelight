@@ -1,0 +1,76 @@
+{
+	"position": [
+		180,
+		-50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "DEE DIALOGUE",
+	"animations": [
+		{
+			"loop_name": "DEE DIALOGUE HAPPY",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DEE DIALOGUE HAPPY",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DEE DIALOGUE SAD",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DEE DIALOGUE SAD",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DEE DIALOGUE TEARING UP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DEE DIALOGUE TEARING UP",
+			"anim": "crying",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DEE DIALOGUE AVERTING EYES",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DEE DIALOGUE AVERTING EYES",
+			"anim": "averted eyes",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DEE DIALOGUE NERVOUS",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DEE DIALOGUE NERVOUS",
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

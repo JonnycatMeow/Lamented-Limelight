@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 1",
+			"expression": "happy",
+			"text": "That wasn’t half bad, good on you for that.\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 2",
+			"expression": "enthu",
+			"text": "Thanks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 3",
+			"expression": "curious",
+			"text": " Soo, how exactly do you two know each other?\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 4",
+			"expression": "smiling",
+			"text": "Ah! Dee and I used to be in a girl group \\ntogether before I decided to go solo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 5",
+			"expression": "curious",
+			"text": " Speaking of, how’s the group been doing? I haven’t checked up on you guys in a while.\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 6",
+			"expression": "sad",
+			"text": ".  .  ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 7",
+			"expression": "averted eyes",
+			"text": "We.. we disbanded."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 8",
+			"expression": "embarrassed",
+			"text": "Oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 9",
+			"expression": "crying",
+			"text": " It was, it was bound to happen. I mean, it’s why we were grouped by your parents in the first place right? We had no point to exist if you weren’t there.\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 10",
+			"expression": "huh",
+			"text": " Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 2 - LINE 11",
+			"expression": "nervous",
+			"text": "Anyways, how bout it again Bargain Bin Alvin?\r"
+		}
+	]
+}

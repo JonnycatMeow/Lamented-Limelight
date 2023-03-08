@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ACK YOU CLICKED IT WHY WOULD YOU DO THAT.png"><SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0000" x="0" y="0" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0001" x="354" y="0" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0002" x="708" y="0" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0003" x="1062" y="0" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0004" x="1416" y="0" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0005" x="0" y="354" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0006" x="354" y="354" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT LEFT ACK0007" x="708" y="354" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0000" x="1062" y="354" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0001" x="1416" y="354" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0002" x="0" y="708" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0003" x="354" y="708" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0004" x="708" y="708" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0005" x="1062" y="708" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0006" x="1416" y="708" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT UP ACK0007" x="0" y="1062" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0000" x="354" y="1062" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0001" x="708" y="1062" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0002" x="1062" y="1062" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0003" x="1416" y="1062" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0004" x="0" y="1416" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0005" x="354" y="1416" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0006" x="708" y="1416" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT DOWN ACK0007" x="1062" y="1416" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0000" x="1416" y="1416" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0001" x="0" y="1770" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0002" x="354" y="1770" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0003" x="708" y="1770" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0004" x="1062" y="1770" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0005" x="1416" y="1770" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0006" x="0" y="2124" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+<SubTexture name="ACK YOU CLICKED IT WHY WOULD YOU DO THAT RIGHT ACK0007" x="354" y="2124" width="354" height="354" frameX="0" frameY="0" frameWidth="354" frameHeight="354" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dee4C_LoveTrain IDLE TWO000"
+		},
+		{
+			"offsets": [
+				140,
+				425
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dee4C_LoveTrain LEFT TWO"
+		},
+		{
+			"offsets": [
+				140,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dee4C_LoveTrain DOWN TWO"
+		},
+		{
+			"offsets": [
+				130,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dee4C_LoveTrain UP 2"
+		},
+		{
+			"offsets": [
+				120,
+				425
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dee4C_LoveTrain RIGHT TWO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dee4C_LoveTrain",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dee",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		180,
+		180
+	],
+	"camera_position": [
+		-100,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

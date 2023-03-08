@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				430
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dee4C IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				425
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dee4C LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				420
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dee4C DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				420
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dee4C UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				425
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dee4C RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				38,
+				426
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Good grief",
+			"loop": false,
+			"name": "Dee4C GOOD GRIEF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dee4C",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dee",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		180,
+		180
+	],
+	"camera_position": [
+		-100,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

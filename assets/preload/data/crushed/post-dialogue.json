@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": null,
+			"expression": "sad",
+			"text": ".  .  ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 4 - LINE 1",
+			"expression": "hey uh",
+			"text": "Hey uh . . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": "CUTSCENE 4 - LINE 2",
+			"expression": "crying",
+			"text": "Just shut up already. I have nothing more to say to you. You’re way too pathetic… I’m done wasting my breath"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narration",
+			"boxState": "normal",
+			"voiceLine": null,
+			"expression": "talk",
+			"text": "*Dee walks out of the store*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": null,
+			"expression": "sad",
+			"text": " *sigh* I shouldn’t be mad at her, it’s unfair to confront her about something she might not have known."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": null,
+			"expression": "sad",
+			"text": " Not just disbandment. The coercion, the blackmail, the shady acts, why does this have to be so complicated?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": null,
+			"expression": "averted eyes",
+			"text": "Her and her boyfriend seem to enjoy each other's company. He’s got a promising career ahead of him, I’m sure of it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dee",
+			"boxState": "normal",
+			"voiceLine": null,
+			"expression": "sad",
+			"text": "I just hope he’s not gonna be screwed over."
+		}
+	]
+}

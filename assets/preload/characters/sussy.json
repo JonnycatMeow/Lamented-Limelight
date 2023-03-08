@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sussy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-183
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sussy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-158
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sussy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-319
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sussy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				-155
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sussy Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sussy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dee",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		185,
+		185
+	],
+	"camera_position": [
+		40,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
