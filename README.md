@@ -1,8 +1,9 @@
 ![guidline](https://user-images.githubusercontent.com/86160862/193617341-df3cffc9-efa9-4d29-bb2c-ad43feb7be1b.png)
 
-Lamented LimeLight
+# Lamented LimeLight
 
 This mod is the remastered verison of vs. dee using an edited verison of Psych Engine 6.2 
+The version of the source code is v0.1
 
 Credits:
 * Dana.mations - Lead, Main Artist, and Dee VA
